@@ -1,3 +1,5 @@
+//Exercício 3 — Peso em gramas, preço, imposto e valor total
+
 #include <iostream>
 using namespace std;
 
