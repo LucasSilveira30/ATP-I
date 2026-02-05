@@ -1,3 +1,5 @@
+//Exercício 2 — Verificação e tipo de triângulo
+
 #include <iostream>
 using namespace std;
 
